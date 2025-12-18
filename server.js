@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5000;
 // Middleware
 app.use(cors({
   origin: [
-    'https://frontend-lac-psi-17.vercel.app',
+    'https://sai-construction.vercel.app/',
     'http://localhost:3000',
     'http://localhost:3004',
     'http://localhost:5173',
